@@ -8,7 +8,7 @@
 
 # About
 
-Hello, I am Joshua Alvarado, a 4th year Statistics and Data Science major at UCSB. I am pursuing a career in software and data. This website is an assignment for my WRIT 107T course but  This is also my first time creating a website in markdown but I am interested in using this as a template for hosting my own personal website that I can show to recruiters.
+Hello, I am Joshua Alvarado, a 4th year Statistics and Data Science major at UCSB. I am pursuing a career in software and data. This website is an assignment for my WRIT 107T course. This is my first time creating a website in markdown but I am interested in using this as a template for hosting my own personal website that I can show to recruiters.
 
 [<img width="256px" src="static/joshheadshot.jpg">](static/joshheadshot.png)
 
