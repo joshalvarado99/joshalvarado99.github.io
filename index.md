@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+# Joshua Alvarado
 
-You can use the [editor on GitHub](https://github.com/joshalvarado99/joshalvarado99.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+- [About](#about)
+- [Contact](#contact)
+- [Resume](#resume)
+- [Projects](#projects)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# About
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Hello, I am Joshua Alvarado, a 4th year Statistics and Data Science major at UCSB. I am pursuing a career in software and data. This website is an assignment for my WRIT 107T course but  This is also my first time creating a website in markdown but I am interested in using this as a template for hosting my own personal website that I can show to recruiters.
 
-```markdown
-Syntax highlighted code block
+[<img width="256px" src="static/joshheadshot.jpg">](static/joshheadshot.png)
 
-# Header 1
-## Header 2
-### Header 3
+# Contact 
 
-- Bulleted
-- List
+Follow me on [LinkedIn](https://www.linkedin.com/in/joshua-alvarado-/)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+# Resume 10/4/2021
+[<img width="720px" src="static/resume.png">](static/resume)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Projects
 
-### Jekyll Themes
+## Peptoid-ff Gen.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joshalvarado99/joshalvarado99.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+A python package for the automated generation of peptoid forcefield parameters. Created as part of the Jim Pfaendtner Research Group at University of Washington.
 
-### Support or Contact
+[<img width="720px" src="static/peptoid-ff.png">](static/peptoid-ff)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Metal Organic Framework Absorption of Sarin: Binding site predictions
+
+Sarin is an extremely toxic synthetic compound used as a chemical warfare agent. Metal organic frameworks (MOFs) are crystalline porous materials that show promise in Sarin absorption and decontaminating chemical warfare attacks. A machine learning model predicting Sarin absorption has been constructed by looking at overall absorption of individual MOF’s. Created as part of the Clancy Group at Johns Hopkins University.
+
+[<img width="720px" src="static/mof.png">](static/mof)
+
+## Relevant Coursework
+
+- Technical Writing
+- Data Structures and Algorithms
+- Java Programming, Object Oriented Programming
+- Data Science Capstone
+- Data Science Principles (R, SQL)
+- Statistical Data Science (Python)
+- Probability and Statistics 
+- Regression Analysis
+- Discrete Math
+- Linear Algebra with Applications
+- Multivariable Calculus
+- Differential Equations
