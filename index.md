@@ -14,11 +14,11 @@ Hello, I am Joshua Alvarado, a 4th year Statistics and Data Science major at UCS
 
 # Contact 
 
-Follow me on [LinkedIn](https://www.linkedin.com/in/joshua-alvarado-/)
+Follow me on [LinkedIn!](https://www.linkedin.com/in/joshua-alvarado-/)
 
 
 
-# Resume 10/4/2021
+# Resume
 [<img width="720px" src="static/resume.png">](static/resume)
 
 # Projects
